@@ -1,0 +1,41 @@
+<!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+{% if site.portfolio_print_social_links %}
+<ul>
+
+  <!-- GitHub link -->
+  {% if site.portfolio_social_links.portfolio_github_url %}
+  <li><strong>Github</strong>: {{ site.portfolio_social_links.portfolio_github_url }}</li>
+  {% endif %}
+
+  <!-- Twitter link -->
+  {% if site.portfolio_social_links.portfolio_twitter_url %}
+  <li><strong>Twitter</strong>: {{ site.portfolio_social_links.portfolio_twitter_url }}</li>
+  {% endif %}
+
+  <!-- Dribbble link -->
+  {% if site.portfolio_social_links.portfolio_dribbble_url %}
+  <li><strong>Dribbble</strong>: {{ site.portfolio_social_links.portfolio_dribbble_url }}</li>
+  {% endif %}
+
+  <!-- Facebook link -->
+  {% if site.portfolio_social_links.portfolio_facebook_url %}
+  <li><strong>Facebook</strong>: {{ site.portfolio_social_links.portfolio_facebook_url }}</li>
+  {% endif %}
+
+  <!-- LinkedIn link -->
+  {% if site.portfolio_social_links.portfolio_linkedin_url %}
+  <li><strong>LinkedIn</strong>: {{ site.portfolio_social_links.portfolio_linkedin_url }}</li>
+  {% endif %}
+
+  <!-- Instagram link -->
+  {% if site.portfolio_social_links.portfolio_instagram_url %}
+  <li><strong>Instagram</strong>: {{ site.portfolio_social_links.portfolio_instagram_url }}</li>
+  {% endif %}
+
+  <!-- Website link -->
+  {% if site.portfolio_social_links.portfolio_website_url %}
+  <li><strong>Website</strong>: {{ site.portfolio_social_links.portfolio_website_url }}</li>
+  {% endif %}
+
+</ul>
+{% endif %}
