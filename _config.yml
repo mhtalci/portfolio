@@ -50,7 +50,7 @@ portfolio_social_links:
 #  portfolio_facebook_url:          "insert Facebook URL here"
   portfolio_linkedin_url:          "https://www.linkedin.com/in/mehmet-alci"
 #  portfolio_instagram_url:         "insert your Instagram URL here"
-  portfolio_website_url:           "http://mehmetalci.com"
+  portfolio_website_url:           "https://mehmetalci.com"
 portfolio_print_social_links:      true
 
 # Design settings
