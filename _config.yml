@@ -23,7 +23,14 @@ portfolio_contact_address:         "Ghent, Belgium"
 portfolio_header_contact_info:     "Ghent, Belgium • hello@mehmetalci.com"
 display_header_contact_info:       "true"
 
-portfolio_header_intro: "<p>Bio</p>"
+portfolio_header_intro: | 
+  "<p>I approach every situation as a challenge and never give up until a solution is found. 
+  My insatiable hunger for self-development and knowledge drives me to constantly learn and grow.
+  I am open-minded with a social attitude, always eager to meet other people and learn about different cultures.
+  My ability to face and learn from different challenges has shaped me into a resilient individual. 
+  I value feedback and see it as a stepping stone to improvement and use it to refine my skills and strategies for the future.
+  Driven by a deep passion for technology, I am committed to leveraging technological advances to drive innovation and efficiency.
+  My goal is to use my skills and passion to make a significant impact in the technology industry.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
