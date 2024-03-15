@@ -178,6 +178,16 @@
   }
 
   .portfolio-item-copy { margin: .75rem 0 0; }
+
+  .logo-cert {
+    width: 75px;
+    max-width: 100%;
+    overflow: hidden;
+//    @include border-radius(100px);
+    margin: 0 auto;
+    display: block;
+    float: right;
+  }
 }
 
 // footer styles

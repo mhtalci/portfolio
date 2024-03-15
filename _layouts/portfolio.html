@@ -97,6 +97,24 @@
       {% endif %}
 
 
+      <!-- begin Certification -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        {% for certificate in site.data.certifications %}
+        <div class="portfolio-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <a href="{{ certificate.url }}" target="_blank" rel="noopener noreferrer"><img alt="my photo" class="logo-cert no-print" itemprop="image" src="{{ certificate.badge }}"></a>
+          <h3 class="portfolio-item-title" itemprop="name">{{ certificate.provider }}</h3>
+          <h4 class="portfolio-item-details group" itemprop="description">{{ certificate.name }}</h4>
+          <h5 class="portfolio-item-details award-title" itemprop="description">{{ certificate.award }}</h5>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Certification -->
+
+
       {% if site.portfolio_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
