@@ -156,10 +156,18 @@
   }
 
   .portfolio-item-list-skills {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
 
-//    text-align: center;
+    li {
+      padding-right: 1rem;
+      padding-left: 0rem;
+      list-style: none;
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+    }
   }
  
   .portfolio-item-details,
