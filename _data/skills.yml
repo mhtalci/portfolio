@@ -2,17 +2,22 @@
 # Organizational leadership
 
 - skill: Linux
-- skill: DevOps
-- skill: Odoo
+- skill: Ansible
+- skill: AWX 
 - skill: TCP/IP
 - skill: Docker
 - skill: Kubernetes
-- skill: Ansible
-- skill: AWX
+- skill: CI/CD
 - skill: Terraform
-- skill: OpenTofu
-- skill: Open source   
+- skill: Odoo
+- skill: Open source
+- skill: Vagrant
+- skill: Debian
+- skill: CentOS
+- skill: Almalinux
 - skill: Bash
+- skill: LAMP
+- skill: Webservices
 - skill: Traefik
 - skill: Postfix
 - skill: MySQL
@@ -20,10 +25,14 @@
 - skill: MongoDB
 - skill: RabbitMQ
 - skill: JMeter
+- skill: Blackfire
 - skill: CSF
 - skill: Netdata
 - skill: Icinga2
+- skill: Opsgenie
 - skill: Git
-- skill: YML
+- skill: Jinja
+- skill: JSON
+- skill: YAML
 - skill: HCL
-
+- skill: Visual Basic
