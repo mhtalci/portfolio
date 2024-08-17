@@ -1,4 +1,9 @@
 # Certifications
+- name: "Oracle Cloud Infrastructure Certified Foundations Associate"
+  provider: "Oracle"
+  url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA9F9444FF24506C910F473BC95A753020F7DE82A4B3FE00DBAA7302DFA9366B"
+  badge: "images/certs/oracle-cloud-infrastructure-2024-certified-foundations-associate.png"
+
 - name: "HashiCorp Certified: Terraform Associate (003)"
   provider: "HashiCorp"
   url: "https://www.credly.com/badges/bb0aca60-77e2-42ef-854d-bc13b9e5fb4c/public_url"
