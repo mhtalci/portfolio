@@ -1,4 +1,9 @@
 # Certifications
+- name: "AWS Knowledge: Cloud Essentials"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/c74f8f62-5120-4fbc-83db-c1563f6e2056/public_url"
+  badge: "images/certs/aws-knowledge-cloud-essentials.png"
+
 - name: "Oracle Cloud Infrastructure Certified Foundations Associate"
   provider: "Oracle"
   url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA9F9444FF24506C910F473BC95A753020F7DE82A4B3FE00DBAA7302DFA9366B"
