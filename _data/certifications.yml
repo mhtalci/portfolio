@@ -1,4 +1,9 @@
 # Certifications
+- name: "AWS Certified Cloud Practitioner"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/4852c705-fc4b-4dd5-b85a-f99f6d37b883/public_url"
+  badge: "images/certs/aws-certified-cloud-practitioner.png"
+
 - name: "AWS Knowledge: Cloud Essentials"
   provider: "Amazon Web Services (AWS)"
   url: "https://www.credly.com/badges/c74f8f62-5120-4fbc-83db-c1563f6e2056/public_url"
