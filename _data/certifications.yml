@@ -1,4 +1,9 @@
 # Certifications
+- name: "AWS Knowledge: Architecting"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/0a38e1d9-5dda-47cc-8f1e-54c3df5e3e11/public_url"
+  badge: "images/certs/aws-knowledge-architecting.png"
+
 - name: "AWS Certified Cloud Practitioner"
   provider: "Amazon Web Services (AWS)"
   url: "https://www.credly.com/badges/4852c705-fc4b-4dd5-b85a-f99f6d37b883/public_url"
