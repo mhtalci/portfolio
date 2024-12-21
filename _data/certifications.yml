@@ -1,4 +1,9 @@
 # Certifications
+- name: "Well-Architected Proficient"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/38cda3cc-55f3-4d79-82ed-3d7b3b525421/public_url"
+  badge: "images/certs/well-architected-proficient.png"
+
 - name: "AWS Knowledge: Architecting"
   provider: "Amazon Web Services (AWS)"
   url: "https://www.credly.com/badges/0a38e1d9-5dda-47cc-8f1e-54c3df5e3e11/public_url"
