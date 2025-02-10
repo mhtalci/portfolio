@@ -1,0 +1,15 @@
+# Certifications
+- name: "HashiCorp Certified: Terraform Associate (003)"
+  provider: "HashiCorp"
+  url: "https://www.credly.com/badges/bb0aca60-77e2-42ef-854d-bc13b9e5fb4c/public_url"
+  badge: "images/certs/hashicorp-certified-terraform-associate-003.png"
+
+- name: "LFC108: Cybersecurity Essentials"
+  provider: "The Linux Foundation"
+  url: "https://www.credly.com/badges/28471fe4-bdd5-4cab-8042-619c555ae959/public_url"
+  badge: "images/certs/lfc108-cybersecurity-essentials.png"
+
+- name: "AWS Partner: Accreditation (Technical)"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/3e6d58a2-cdf9-4ca5-897d-982513c9a035/public_url"
+  badge: "images/certs/aws-partner-accreditation-technical.png"

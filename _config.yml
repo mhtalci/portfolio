@@ -1,0 +1,68 @@
+# Site settings
+title: "Mehmet's Portfolio"
+description: "My personal portfolio"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Portfolio settings
+portfolio_avatar:                  "true"
+portfolio_name:                    "Mehmet Alci"
+portfolio_title:                   "System Engineer"
+
+# used for the contact button in _layouts/portfolio.html
+portfolio_contact_email:           "hello@mehmetalci.com"
+
+# the next two items are used for schema itemprops in _layouts/portfolio.html
+# portfolio_contact_telephone:       "+32 4xx xx xx xx"
+portfolio_contact_address:         "Ghent, Belgium"
+
+portfolio_header_contact_info:     "Ghent, Belgium • hello@mehmetalci.com"
+display_header_contact_info:       "true"
+
+portfolio_header_intro: | 
+  <p>I approach every situation as a challenge and never give up until a solution is found. 
+  My insatiable hunger for self-development and knowledge drives me to constantly learn and grow.
+  I am open-minded with a social attitude, always eager to meet other people and learn about different cultures.
+  My ability to face and learn from different challenges has shaped me into a resilient individual. 
+  I value feedback and see it as a stepping stone to improvement and use it to refine my skills and strategies for the future.
+  Driven by a deep passion for technology, I am committed to leveraging technological advances to drive innovation and efficiency.
+  My goal is to use my skills and passion to make a significant impact in the technology industry.</p>
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the portfolio_looking_for_work option entirely
+# to leave blank
+portfolio_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+portfolio_section_experience:      true
+portfolio_section_education:       true
+portfolio_section_projects:        false
+portfolio_section_skills_endorsements: true
+portfolio_section_links:           false
+portfolio_section_associations:    false
+portfolio_section_hobbies_interests: true
+portfolio_section_languages: true
+
+# Portfolio social links
+# uncomment the options you wish to display, and add your own URL
+portfolio_social_links:
+  portfolio_github_url:            "https://github.com/mr4lci"
+#  portfolio_twitter_url:           "http://twitter.com/###"
+#  portfolio_facebook_url:          "insert Facebook URL here"
+  portfolio_linkedin_url:          "https://www.linkedin.com/in/mehmet-alci"
+#  portfolio_instagram_url:         "insert your Instagram URL here"
+  portfolio_website_url:           "https://mehmetalci.com"
+portfolio_print_social_links:      true
+
+# Design settings
+portfolio_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
