@@ -1,0 +1,50 @@
+# Certifications
+- name: "Microsoft Certified: Azure Fundamentals"
+  provider: "Microsoft (Azure)"
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/mhtalci/5A98C451AC04614?sharingId=7B862926B7E27C16"
+  badge: "images/certs/microsoft-certified-fundamentals-badge.png"
+
+- name: "AWS Certified Solutions Architect - Associate"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/d19f3966-f4c4-4a72-8da4-4ef61134b6d3/public_url"
+  badge: "images/certs/aws-certified-solutions-architect-associate.png"
+
+- name: "Well-Architected Proficient"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/38cda3cc-55f3-4d79-82ed-3d7b3b525421/public_url"
+  badge: "images/certs/well-architected-proficient.png"
+
+- name: "AWS Knowledge: Architecting"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/0a38e1d9-5dda-47cc-8f1e-54c3df5e3e11/public_url"
+  badge: "images/certs/aws-knowledge-architecting.png"
+
+- name: "AWS Certified Cloud Practitioner"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/4852c705-fc4b-4dd5-b85a-f99f6d37b883/public_url"
+  badge: "images/certs/aws-certified-cloud-practitioner.png"
+
+- name: "AWS Knowledge: Cloud Essentials"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/c74f8f62-5120-4fbc-83db-c1563f6e2056/public_url"
+  badge: "images/certs/aws-knowledge-cloud-essentials.png"
+
+- name: "Oracle Cloud Infrastructure Certified Foundations Associate"
+  provider: "Oracle"
+  url: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=AA9F9444FF24506C910F473BC95A753020F7DE82A4B3FE00DBAA7302DFA9366B"
+  badge: "images/certs/oracle-cloud-infrastructure-2024-certified-foundations-associate.png"
+
+- name: "HashiCorp Certified: Terraform Associate (003)"
+  provider: "HashiCorp"
+  url: "https://www.credly.com/badges/bb0aca60-77e2-42ef-854d-bc13b9e5fb4c/public_url"
+  badge: "images/certs/hashicorp-certified-terraform-associate-003.png"
+
+- name: "LFC108: Cybersecurity Essentials"
+  provider: "The Linux Foundation"
+  url: "https://www.credly.com/badges/28471fe4-bdd5-4cab-8042-619c555ae959/public_url"
+  badge: "images/certs/lfc108-cybersecurity-essentials.png"
+
+- name: "AWS Partner: Accreditation (Technical)"
+  provider: "Amazon Web Services (AWS)"
+  url: "https://www.credly.com/badges/3e6d58a2-cdf9-4ca5-897d-982513c9a035/public_url"
+  badge: "images/certs/aws-partner-accreditation-technical.png"
