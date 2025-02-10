@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# comma.ai
+- project: Comma.ai
+  role: Dev
+  duration: 1971 &mdash; Present
+  # url: "#"
+  description: open source driver assistance system that runs on 250+ car models.
+
+# tinygrad.org
+- project: Tiny corp
+  role: Dev
+  duration: 1971 &mdash; Present
+  # url: "#"
+  description: deep learning framework.
